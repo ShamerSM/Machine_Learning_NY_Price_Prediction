@@ -1,4 +1,4 @@
-# Airbnb Price Prediction - COMP-1861 ML Coursework
+# Airbnb Price Prediction - ML Coursework
 
 This project is aim is to build a regression model to predict Airbnb listing prices in New York City based on location, property type, number of reviews, and availability.
 
